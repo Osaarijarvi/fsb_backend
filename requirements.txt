@@ -1,0 +1,16 @@
+# restapi framwork
+fastapi[standard]
+
+# ORM Relational (puhtaan sql:n sijaan)
+sqlalchemy
+
+# migraatiotyökalu
+alembic
+
+# Postgres
+psycopg2-binary
+
+python-dotenv
+passlib
+argon2-cffi
+pyjwt[crypto]
